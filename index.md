@@ -8,3 +8,5 @@ Sergio Marquina ist der Kopf hinter dem Überfall auf die Gelddruckerei. Erh at 
 * Planvoll und überlegt
 * Sachlich 
 
+Zitat von Sergio:
+> Ich weiß heute schon welches Hemd ich morgen anziehe
