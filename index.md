@@ -11,4 +11,4 @@ Sergio Marquina ist der Kopf hinter dem Überfall auf die Gelddruckerei. Erh at 
 Zitat von Sergio:
 > Ich weiß heute schon welches Hemd ich morgen anziehe
 
-![Sergio Marquina](https://www.tagesspiegel.de/images/la-casa-de-papel_part3-e03_unit_00194/24676102/2-format6001.jpg?inIsFirst=true)
+<img src="https://www.tagesspiegel.de/images/la-casa-de-papel_part3-e03_unit_00194/24676102/2-format6001.jpg?inIsFirst=true"/>
